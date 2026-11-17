@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Cuisine Intelligente DZ",
+  "short_name": "Cuisine DZ",
+  "description": "Qu’est-ce qu’on cuisine aujourd’hui ? · Aya Créations DZ",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4A2133",
+  "theme_color": "#B8486A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
